@@ -10,15 +10,16 @@
     "license": "MIT",
     "authors": [
         {
-            "name": ":Moath Odat",
-            "email": ":moad.odat@gmail.com",
-            "homepage": ":http://odattech.com",
+            "name": "Moath Odat",
+            "email": "moad.odat@gmail.com",
+            "homepage": "http://odattech.com",
             "role": "Developer"
         }
     ],
     "require": {
         "php" : ">=5.5.0",
-        "illuminate/support": "~5.2"
+        "illuminate/support": "~5.2",
+        "guzzlehttp/guzzle": "^6.3"
     },
     "require-dev": {
         "phpunit/phpunit" : "4.*"
